@@ -409,11 +409,6 @@ if __name__ == "__main__":
     app.run(debug=True)
 
 
-# by Emmanuel Martinez
-````
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/2.2.JPG?raw=true)
-
 
 
 3. ​**The `index.html` file contains code that will display the full-resolution image URL and title for each hemisphere image.**
@@ -511,9 +506,9 @@ if __name__ == "__main__":
 
 **Code Image and Browser In Use**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/SC.JPG?raw=true)
+![name-of-you-image](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping/blob/main/Resources/Images/SC.JPG)
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/2.4.JPG?raw=true)
+![name-of-you-image](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping/blob/main/Resources/Images/2.4.JPG)
 
 
 
@@ -534,61 +529,61 @@ For this part of the Challenge, update your web app to make it mobile-responsive
 **Webpage - View**
 
 > 1st Page
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/MP.JPG?raw=true)
+![name-of-you-image](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping/blob/main/Resources/Images/MP.JPG)
 
 > 2nd Page
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/MP1.JPG?raw=true)
+![name-of-you-image](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping/blob/main/Resources/Images/MP1.JPG)
 
 > 3rd Page
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/MP2.JPG?raw=true)
+![name-of-you-image](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping/blob/main/Resources/Images/MP2.JPG)
 
 
 
 **iPhone X - Mobile View**
 
 > 1st Page
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/3.1.JPG?raw=true)
+![name-of-you-image](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping/blob/main/Resources/Images/3.1.JPG)
 
 > 2nd Page
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/3.1.1.JPG?raw=true)
+![name-of-you-image](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping/blob/main/Resources/Images/3.1.1.JPG)
 
 > 3rd Page
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/3.1.2.JPG?raw=true)
+![name-of-you-image](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping/blob/main/Resources/Images/3.1.2.JPG)
 
 > 4rd Page
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/3.1.3.JPG?raw=true)
+![name-of-you-image](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping/blob/main/Resources/Images/3.1.3.JPG)
     
 
 **iPad Pro - Tablet View**
 
 > 1st Page
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/3.2.JPG?raw=true)
+![name-of-you-image](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping/blob/main/Resources/Images/3.2.JPG)
 
 > 2nd Page
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/3.2.1.JPG?raw=true)
+![name-of-you-image](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping/blob/main/Resources/Images/3.2.1.JPG)
 
 **Flip Tablet**
 
 > 1st Page
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/3.2.2.JPG?raw=true)
+![name-of-you-image](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping/blob/main/Resources/Images/3.2.2.JPG)
 
 > 2nd Page
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/3.2.3.JPG?raw=true)
+![name-of-you-image](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping/blob/main/Resources/Images/3.2.3.JPG)
 
 
 **Galaxy S5 - Mobile View**
 
 > 1st Page
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/3.3.JPG?raw=true)
+![name-of-you-image](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping/blob/main/Resources/Images/3.3.JPG)
 
 > 2nd Page
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/3.3.1.JPG?raw=true)
+![name-of-you-image](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping/blob/main/Resources/Images/3.3.1.JPG)
 
 > 3rd Page
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/3.3.2.JPG?raw=true)
+![name-of-you-image](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping/blob/main/Resources/Images/3.3.2.JPG)
 
 > 4rd Page
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/3.3.3.JPG?raw=true)
+![name-of-you-image](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping/blob/main/Resources/Images/3.3.3.JPG)
 
 
 
