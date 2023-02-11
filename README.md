@@ -6,7 +6,7 @@
 1. ***Deliverable 1***: Scrape Full-Resolution Mars Hemisphere Images and Titles
 2. ***Deliverable 2***: Update the Web App with Mars Hemisphere Images and Titles
 3. ***Deliverable 3***: Add Bootstrap 3 Components
-4. ***Extra***: A written report on the employee database analysis [`README.md`](https://github.com/emmanuelmartinezs/Mission-to-Mars). 
+4. ***Extra***: A written report on the employee database analysis [`README.md`](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping). 
 
 ## Resources and Before Start Notes:
 
@@ -612,7 +612,7 @@ For this part of the Challenge, update your web app to make it mobile-responsive
   </head>
 ````
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/3.4.JPG?raw=true)
+![name-of-you-image](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping/blob/main/Resources/Images/3.4.JPG)
 
 
-#### # Mission to Mars Analysis Completed by Emmanuel Martinez
+#### # Mission to Mars Analysis Completed by Shawn Logan
