@@ -58,8 +58,6 @@ from bs4 import BeautifulSoup as soup
 from webdriver_manager.chrome import ChromeDriverManager
 ````
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/1.1.JPG?raw=true)
-
 ![name-of-you-image](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping/blob/main/Resources/Images/1.1.1.JPG)
 
 
@@ -81,12 +79,6 @@ from splinter import Browser
 from bs4 import BeautifulSoup as soup
 import pandas as pd
 ````
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/1.2.JPG?raw=true)
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/1.2.1.JPG?raw=true)
-
-
 
 3. ​**In Step 1, use your browser to visit the [`Mars Hemispheres`](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars) website to view the hemisphere images.**
 
@@ -146,9 +138,6 @@ hemisphere_image_urls
   'title': 'Valles Marineris Hemisphere Enhanced'}]
 ````
 
-**Code Image**
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/1.4.JPG?raw=true)
 
 **Cerberus Hemisphere Enhanced**
 
