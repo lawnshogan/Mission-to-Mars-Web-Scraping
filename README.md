@@ -22,7 +22,7 @@ Tables in HTML are basically made up of many smaller containers. The main contai
 `<tr />` is the tag for each table row. Within that tag, the table data is stored in `<td />` tags. This is where the columns are established.
 
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/s1.JPG?raw=true)
+![name-of-you-image](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping/blob/main/Resources/Images/s1.JPG)
 
 
 
@@ -49,7 +49,7 @@ Using BeautifulSoup and Splinter, you’ll scrape full-resolution images of Mars
 
 ````python
 # Mission to Mars (Module Code)
-# by Emmanuel Martinez
+# by Shawn Logan
 
 # Import Splinter and BeautifulSoup
 import pandas as pd
@@ -60,7 +60,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 ![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/1.1.JPG?raw=true)
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/1.1.1.JPG?raw=true)
+![name-of-you-image](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping/blob/main/Resources/Images/1.1.1.JPG)
 
 
 
@@ -74,7 +74,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 ````python
 # Here start the Mission to Mars Challenge Starter Code
-# by Emmanuel Martinez
+# by Shawn Logan
 
 # Import Splinter, BeautifulSoup, and Pandas
 from splinter import Browser
@@ -105,9 +105,9 @@ browser.visit(url)
 hemisphere_image_urls = []
 ````
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/1.3.JPG?raw=true)
+![name-of-you-image](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping/blob/main/Resources/Images/1.3.JPG)
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/1.3.1.JPG?raw=true)
+![name-of-you-image](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping/blob/main/Resources/Images/1.3.1.JPG)
 
 
 
@@ -152,19 +152,19 @@ hemisphere_image_urls
 
 **Cerberus Hemisphere Enhanced**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/1.4.1.JPG?raw=true)
+![name-of-you-image](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping/blob/main/Resources/Images/1.4.1.JPG)
 
 **Schiaparelli Hemisphere Enhanced**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/1.4.2.JPG?raw=true)
+![name-of-you-image](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping/blob/main/Resources/Images/1.4.2.JPG)
 
 **Syrtis Major Hemisphere Enhanced**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/1.4.3.JPG?raw=true)
+![name-of-you-image](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping/blob/main/Resources/Images/1.4.3.JPG)
 
 **Valles Marineris Hemisphere Enhanced**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/1.4.4.JPG?raw=true)
+![name-of-you-image](https://github.com/lawnshogan/Mission-to-Mars-Web-Scraping/blob/main/Resources/Images/1.4.4.JPG)
 
 
 
@@ -193,7 +193,7 @@ Using your Python and HTML skills, you’ll add the code you created in Delivera
 
 ````python
 ## MISSION TO MARS CHALLENGE
-## By Emmanuel Martinez 
+## By Shawn Logan
 
 ## > Exported and Cleaned Mission_to_Mars_Challenge.ipynb code to scraping.py <
 
@@ -361,11 +361,7 @@ if __name__== "__main__":
     # If running as script, print scrapped data
     print(scrape_all())
 
-# By Emmanuel Martinez
-````
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/Mission-to-Mars/blob/main/Resources/Images/2.1.JPG?raw=true)
-
+# By Shawn Logan
 
 
 2. **The Mongo database is updated to contain the full-resolution image URL and title for each hemisphere image.**
@@ -378,7 +374,7 @@ if __name__== "__main__":
 
 ````python
 ## MISSION TO MARS CHALLENGE
-## By Emmanuel Martinez 
+## By Shawn Logan
 
 # Import Flask, PyMongo, and scraping.py 
 from flask import Flask, render_template
